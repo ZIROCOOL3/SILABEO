@@ -1,0 +1,19 @@
+C:\Users\jcanteros\Google Drive\Proyecto C#\silabeo\Silabeo\Silabeo\bin\Debug\Silabeo.exe.config
+C:\Users\jcanteros\Google Drive\Proyecto C#\silabeo\Silabeo\Silabeo\bin\Debug\Silabeo.exe
+C:\Users\jcanteros\Google Drive\Proyecto C#\silabeo\Silabeo\Silabeo\bin\Debug\Silabeo.pdb
+C:\Users\jcanteros\Google Drive\Proyecto C#\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.csprojResolveAssemblyReference.cache
+C:\Users\jcanteros\Google Drive\Proyecto C#\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.Properties.Resources.resources
+C:\Users\jcanteros\Google Drive\Proyecto C#\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.csproj.GenerateResource.Cache
+C:\Users\jcanteros\Google Drive\Proyecto C#\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.exe
+C:\Users\jcanteros\Google Drive\Proyecto C#\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.pdb
+C:\Users\jcanteros\Google Drive\Proyecto C#\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.FrmPrincipal.resources
+C:\Users\JAVIER\Google Drive\Proyecto C#\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.pdb
+E:\Google Drive\PROGRAMACION\silabeo-20190105T141221Z-001\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.pdb
+E:\Google Drive\PROGRAMACION\silabeo-20190105T141221Z-001\silabeo\Silabeo\Silabeo\bin\Debug\Silabeo.exe
+E:\Google Drive\PROGRAMACION\silabeo-20190105T141221Z-001\silabeo\Silabeo\Silabeo\bin\Debug\Silabeo.pdb
+E:\Google Drive\PROGRAMACION\silabeo-20190105T141221Z-001\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.FrmPrincipal.resources
+E:\Google Drive\PROGRAMACION\silabeo-20190105T141221Z-001\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.Properties.Resources.resources
+E:\Google Drive\PROGRAMACION\silabeo-20190105T141221Z-001\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.csproj.GenerateResource.Cache
+E:\Google Drive\PROGRAMACION\silabeo-20190105T141221Z-001\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.exe
+E:\Google Drive\PROGRAMACION\silabeo-20190105T141221Z-001\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.AboutBox1.resources
+E:\Google Drive\PROGRAMACION\silabeo-20190105T141221Z-001\silabeo\Silabeo\Silabeo\obj\Debug\Silabeo.csprojResolveAssemblyReference.cache
